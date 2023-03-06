@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>%d reacties</item>
+        <item>%d reactie</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>Er is %d update klaar om te installeren</item>
+        <item>Er zijn %d updates klaar om te installeren</item>
+    </plurals>
+</resources>

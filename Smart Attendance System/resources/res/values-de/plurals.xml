@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>ein Kommentar</item>
+        <item>Kommentare</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>%d Apps können aktualisiert werden</item>
+        <item>%d Apps können noch aktualisiert werden</item>
+    </plurals>
+</resources>

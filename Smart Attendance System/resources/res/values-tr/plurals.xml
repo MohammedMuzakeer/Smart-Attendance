@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>1 yorum</item>
+        <item>%d yorum</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>Yüklenmeye hazır %d güncellemeniz var</item>
+        <item>Yüklenmeye hazır %d güncellemeniz var</item>
+    </plurals>
+</resources>

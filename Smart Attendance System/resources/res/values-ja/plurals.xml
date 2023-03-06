@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>%d コメント</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>%dのアップデートの準備ができています。</item>
+    </plurals>
+</resources>

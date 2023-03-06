@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>%d تعليق</item>
+        <item>1 تعليق</item>
+        <item>%d تعليق</item>
+        <item>%d تعليق</item>
+        <item>%d تعليق</item>
+        <item>%d تعليق</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>لديك %d تحديثًا بانتظار التثبيت or ليست لديك أي تحديثات جاهزة للتثبيت</item>
+        <item>لديك تحديث %d جاهز للتثبيت</item>
+        <item>لديك تحديثان جاهزان للتثبيت</item>
+        <item>لديك %d تحديثات جاهزة للتثبيت</item>
+        <item>لديك %d تحديثًا جاهز للتثبيت</item>
+        <item>لديك %d تحديثًا جاهز للتثبيت</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item>%d new notification</item>
+        <item>%d new notifications</item>
+    </plurals>
+    <plurals name="timeline_short_comment">
+        <item>1 comment</item>
+        <item>%d comments</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>You&apos;ve got %d update ready to install</item>
+        <item>You&apos;ve got %d updates ready to install</item>
+        <item>You&apos;ve got %d updates ready to install</item>
+        <item>You&apos;ve got %d updates ready to install</item>
+        <item>You&apos;ve got %d updates ready to install</item>
+    </plurals>
+</resources>

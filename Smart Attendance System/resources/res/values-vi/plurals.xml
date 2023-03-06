@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>%d bình luận</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>Bạn có %d bản cập nhật khả dụng để cài đặt</item>
+    </plurals>
+</resources>

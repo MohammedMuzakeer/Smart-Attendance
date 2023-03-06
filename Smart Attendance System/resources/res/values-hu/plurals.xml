@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>1 hozzászólás</item>
+        <item>%d hozzászólás</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>%d frissítés vár telepítésre</item>
+        <item>%d frissítés vár telepítésre</item>
+    </plurals>
+</resources>

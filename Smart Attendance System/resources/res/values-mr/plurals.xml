@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>१ टिप्पणी</item>
+        <item>%d टिप्पण्या</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>%d अपडेट आपल्या इंस्टलेशनसाठी तयार आहेत</item>
+        <item>%d अपडेट आपल्या इंस्टलेशनसाठी तयार आहेत</item>
+    </plurals>
+</resources>

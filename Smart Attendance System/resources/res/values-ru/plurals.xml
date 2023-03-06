@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timeline_short_comment">
+        <item>1 комментарий</item>
+        <item>%d комментариев</item>
+        <item>%d комментариев</item>
+        <item>%d комментариев</item>
+    </plurals>
+    <plurals name="updates_notification_body">
+        <item>%d обновление готово к установке</item>
+        <item>%d обновления готово к установке</item>
+        <item>%d обновлений готово к установке</item>
+        <item>%d обновлений готово к установке</item>
+    </plurals>
+</resources>
